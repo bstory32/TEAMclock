@@ -8,43 +8,43 @@
              <ul class="list-inline">
               <li>
                 <a href="#">
-                  <div class="date">Sun<br>15</div>
+                  <div class="date">Sun <span>15</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <div class="date">Mon<br>16</div>
+                  <div class="date">Mon <span>16</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <div class="date">Tues<br>17</div>
+                  <div class="date">Tues <span>17</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <div class="date">Wed<br>18</div>
+                  <div class="date">Wed <span>18</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <div class="date">Thurs<br>19</div>
+                  <div class="date">Thurs <span>19</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <div class="date">Fri<br>20</div>
+                  <div class="date">Fri <span>20</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <div class="date">Sat<br>21</div>
+                  <div class="date">Sat <span>21</span></div>
                   <div class="time">1.00</div>
                 </a>
               </li>

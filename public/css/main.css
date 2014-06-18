@@ -289,15 +289,6 @@ p{
 
 
 
-.weekly-view span:last-child{
-  font-weight: 900;
-  font-size: 12px;
-}
-
-.weekly-view ul li:last-child{
-
-}
-
 .weekly-view ul li:last-child:hover {
   background: inherit;
 }
@@ -310,6 +301,7 @@ p{
   padding: 0px;
   font-size: 12px;
   text-align: center;
+  width: 14%;
 }
 .weekly-view ul li .date{
   font-weight: bold;
@@ -340,7 +332,6 @@ p{
 }
 .weekly-view li a{
   display: block;
-  padding: 15px 66px;
   font-size: 1.2em;
 }
 .weekly-view li a:hover{
