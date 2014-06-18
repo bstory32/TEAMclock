@@ -34,7 +34,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><span>TEAM</span>Clock</a>
+            <a class="navbar-brand" href="index.php"><span>TEAM</span>Clock</a>
 
           </div>
           <div class="collapse navbar-collapse main-nav hollow">
