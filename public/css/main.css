@@ -297,6 +297,10 @@ p{
   margin: 25px 0 0 0;
 }
 
+.weekly-view li{
+  background: #fff;
+}
+
 .weekly-view ul li{
   padding: 0px;
   font-size: 12px;
@@ -312,7 +316,6 @@ p{
 }
 
 .weekly-view ul{
-  background: #fff;
   font-size: 0;
 }
 
@@ -333,6 +336,7 @@ p{
 .weekly-view li a{
   display: block;
   font-size: 1.2em;
+  padding: 15px;
 }
 .weekly-view li a:hover{
   text-decoration: none;

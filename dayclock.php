@@ -22,7 +22,7 @@
           <ul>
             <li>
               <div class="project-details">
-                <h2>MuddRunner</h2>
+                <h2>MuddRunner <a href="#"><i class="fa fa-wrench"></i></a></h2>
                 <p>Front End Developer</p>
               </div>
               <div class="edit-project-details">
