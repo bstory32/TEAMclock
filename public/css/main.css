@@ -450,7 +450,7 @@ p{
     .weekly-view h1{
       margin: 5px;
     }
-*/
+    */
     .view-history {
       text-align: center;
     }
@@ -521,19 +521,117 @@ p{
       padding: 15px 35px;
     }
 
-  }*/
+    }*/
+
+
+    /*start of manage page*/
+
+    .manage h1{
+      font-size: 25px;
+      padding-top: 10px;
+      font-weight: 400;
+    }
+
+
+    .project-total {
+      background: #fff;
+      padding: 15px 0;
+    }
+
+    .project-total p{
+      float: right;
+      margin: -10px 6px;
+      font-weight: 600;
+    }
+
+
+    .members-section h2{
+      margin: 25px 0 10px 0;
+      font-size: 18px;
+      font-weight: 900;
+    }
+
+
+    .hours-section {
+      padding: 5px;
+    }
+
+    .hours-section span{
+      padding: 5px;
+    }
+
+    .hours-section ul{
+      float: right;
+    }
+
+    .hours-section li+li{
+      border-left: 1px solid #000;
+    }
+
+    .first{
+      padding: 5px 0;
+    }
+
+
+    .second{
+      background: #CDD5E4;
+      padding: 5px 0;
+    }
 
 
 
+    @media (max-width: 567px){
+      .list-inline>li {
+        display: inline-block;
+        padding: 0;
+      }
+      .hours-section{
+        font-size: .8em;
+      }
+    }
+
+    @media(max-width: 400px){
+      .hours-section ul {
+        float: none;
+      }
+      .list-inline {
+        padding-left: 5px;
+        list-style: none;
+        margin-left: 0;
+      }
+      .list-inline>li {
+        display: list-item;
+        padding: 5px 0;
+      }
+      .hours-section li+li {
+        border-left: none;
+      }
+      .hours-section span {
+        padding: 5px;
+        font-size: 15px;
+        font-weight: 900;
+      }
+    }
 
 
 
-
-
-
-
-
-
-
-
-
+    @media (max-width: 320px){
+      .second{
+        padding: 0;
+      }
+      .col-sm-12{
+        padding: 0px 2px;
+      }
+      
+      .list-inline>li {
+        display: block;
+      }
+      .hours-section li+li {
+        border-left: none;
+      }
+      .hours-section span {
+        padding: 5px;
+        font-size: 15px;
+        font-weight: 900;
+      }
+    }
