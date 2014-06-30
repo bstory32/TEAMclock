@@ -490,148 +490,155 @@ p{
       width: 197px;
     }
   }
-/*
-  @media (max-width: 991px){
-    .weekly-view li a {
-      font-size: .9em;
-      padding: 15px 38px;
-    }
-  }
 
-  @media (max-width: 730px){
-    .weekly-view li a {
-      font-size: .9em;
-      padding: 15px 37px;
-    }
+
+
+  /*start of manage page*/
+
+  .manage h1{
+    font-size: 25px;
+    padding-top: 10px;
+    font-weight: 400;
   }
 
 
-  @media (max-width: 715px) {
-    .weekly-view li a {
-      font-size: .9em;
-      padding: 15px 36px;
+  .project-total {
+    background: #fff;
+    padding: 15px 0;
+  }
 
-    }
+  .project-total p{
+    float: right;
+    margin: -10px 6px;
+    font-weight: 600;
+  }
+
+
+  .members-section h2{
+    margin: 25px 0 10px 0;
+    font-size: 18px;
+    font-weight: 900;
+  }
+
+
+  .hours-section {
+    padding: 5px;
+  }
+
+  .hours-section span{
+    padding: 5px;
+    display: inline-block;
+    width: 20%;
 
   }
 
-  @media (max-width: 701px){
-    .weekly-view li a {
+  .hours-section ul{
+
+    display: inline-block;
+    text-align: right;
+    width: 80%;
+  }
+
+  .hours-section li+li{
+    border-left: 1px solid #000;
+
+    padding-left: 10px;
+  }
+
+  .first{
+    padding: 5px 0;
+  }
+
+  .second{
+    background: #CDD5E4;
+    padding: 5px 0;
+  }
+
+  @media (max-width: 600px){
+    .hours-section ul {
+      display: inline-block;
+      text-align: right;
+      width: 80%;
       font-size: .9em;
-      padding: 15px 35px;
+    }
+  }
+
+  @media (max-width: 567px){
+    .hours-section{
+      font-size: .8em;
+    }
+  }
+
+  @media(max-width: 470px){
+    .hours-section ul {
+      float: none;
+      text-align: left;
+    }
+    .list-inline {
+      list-style: none;
+      margin-left: 0;
     }
 
-    }*/
-
-
-    /*start of manage page*/
-
-    .manage h1{
-      font-size: 25px;
-      padding-top: 10px;
-      font-weight: 400;
+    .hours-section li+li {
+      border-left: none;
     }
-
-
-    .project-total {
-      background: #fff;
-      padding: 15px 0;
-    }
-
-    .project-total p{
-      float: right;
-      margin: -10px 6px;
-      font-weight: 600;
-    }
-
-
-    .members-section h2{
-      margin: 25px 0 10px 0;
-      font-size: 18px;
+    .hours-section span {
+      padding: 5px;
+      font-size: 15px;
       font-weight: 900;
     }
-
-
-    .hours-section {
-      padding: 5px;
-    }
-
-    .hours-section span{
-      padding: 5px;
-    }
-
-    .hours-section ul{
-      float: right;
-    }
-
-    .hours-section li+li{
-      border-left: 1px solid #000;
-    }
-
-    .first{
-      padding: 5px 0;
-    }
-
-
     .second{
-      background: #CDD5E4;
-      padding: 5px 0;
+      padding: 0;
+    }
+    .col-sm-12{
+      padding: 0px 2px;
     }
 
-
-
-    @media (max-width: 567px){
-      .list-inline>li {
-        display: inline-block;
-        padding: 0;
-      }
-      .hours-section{
-        font-size: .8em;
-      }
+    .list-inline>li {
+      display: block;
+      padding: 5px 0px;
+      text-align: left;
     }
-
-    @media(max-width: 400px){
-      .hours-section ul {
-        float: none;
-      }
-      .list-inline {
-        padding-left: 5px;
-        list-style: none;
-        margin-left: 0;
-      }
-      .list-inline>li {
-        display: list-item;
-        padding: 5px 0;
-      }
-      .hours-section li+li {
-        border-left: none;
-      }
-      .hours-section span {
-        padding: 5px;
-        font-size: 15px;
-        font-weight: 900;
-      }
+    .hours-section li+li {
+      border-left: none;
+      padding-left: 0;
     }
-
-
-
-    @media (max-width: 320px){
-      .second{
-        padding: 0;
-      }
-      .col-sm-12{
-        padding: 0px 2px;
-      }
-      
-      .list-inline>li {
-        display: block;
-      }
-      .hours-section li+li {
-        border-left: none;
-      }
-      .hours-section span {
-        padding: 5px;
-        font-size: 15px;
-        font-weight: 900;
-      }
+    .hours-section span {
+      padding: 5px;
+      font-size: 15px;
+      font-weight: 900;
+      display: block;
+      width: 100%;
+      background: rgb(162, 165, 178);
     }
+  }
+
+  textarea:focus, input:focus {
+    border: 5px solid #900;
+  }
+
+
+
+  .login-header h1{
+    padding-bottom: 25px;
+  }
+
+
+  .membership{
+    text-align: center;
+  }
+
+
+
+
+
+  @media (max-width: 360px){
+    .projects-section .edit-project-details {
+      display: inline-block;
+      float: right;
+      background: white;
+      width: auto;
+      text-align: center;
+      padding: 1em 0;
+    }
+  }
