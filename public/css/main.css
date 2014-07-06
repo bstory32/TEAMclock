@@ -289,62 +289,6 @@ p{
 
 
 
-.weekly-view ul li:last-child:hover {
-  background: inherit;
-}
-
-.weekly-view {
-  margin: 25px 0 0 0;
-}
-
-.weekly-view li{
-  background: #fff;
-}
-
-.weekly-view ul li{
-  padding: 0px;
-  font-size: 12px;
-  text-align: center;
-  width: 14%;
-}
-.weekly-view ul li .date{
-  font-weight: bold;
-  
-}
-.weekly-view ul li:hover{
-  background: #95a5a6;
-}
-
-.weekly-view ul{
-  font-size: 0;
-}
-
-.weekly-view h1{
-  color: black;
-  font-size: 1em;
-  font-weight: 400;
-  margin: 15px 0px 15px 0;
-  text-align: center;
-}
-
-.weekly-view p{
-  color: black;
-  text-align: center;
-  margin: 0;
-  font-size: .8em;
-}
-.weekly-view li a{
-  display: block;
-  font-size: 1.2em;
-  padding: 15px;
-}
-.weekly-view li a:hover{
-  text-decoration: none;
-}
-.weekly-view li+li{
- border-left: 1px solid #bbb; 
-}
-
 /*.total h1{
   
 }
@@ -466,8 +410,6 @@ p{
       margin: 0;
     }
     .weekly-view .container {
-      margin: 0;
-      padding: 0;
     }
   }
 
@@ -627,6 +569,28 @@ p{
     text-align: center;
   }
 
+
+  /*weekly view*/
+    .weekly-view{
+    }
+    .weekly-view ul{
+      font-size: 10px;
+      display: block;
+      text-align: center;
+      background: #FFF;
+    }
+    .weekly-view ul li{
+      background: #FFF;
+      text-align: center;
+      padding: 0 3px;
+      width: 13.4%;
+    }
+    .weekly-view ul li + li{
+      border-left: 1px solid #eee;
+    }
+    .weekly-view ul li span{
+      display: block;
+    }
 
 
 
