@@ -595,7 +595,6 @@ p{
     }
 
     .list-inline>li {
-      display: block;
       padding: 5px 0px;
       text-align: left;
     }
