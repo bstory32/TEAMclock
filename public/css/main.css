@@ -578,6 +578,7 @@ p{
       display: block;
       text-align: center;
       background: #FFF;
+      min-width: 265px;
     }
     .weekly-view ul li{
       background: #FFF;
