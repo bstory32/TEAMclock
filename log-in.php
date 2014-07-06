@@ -39,7 +39,7 @@
 			<div class="col-sm-6">
 				<div class="membership">
 					<h2>Not a member?</h2>
-					<a href="#"><button type="button" class="btn btn-primary">Register Now</button></a>
+					<a href="register.php"><button type="button" class="btn btn-primary">Register Now</button></a>
 				</div>
 			</div>
 		</div>
