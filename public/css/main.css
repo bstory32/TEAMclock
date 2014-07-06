@@ -571,27 +571,38 @@ p{
 
 
   /*weekly view*/
-    .weekly-view{
+  .weekly-view{
+  }
+  .weekly-view ul{
+    font-size: 10px;
+    display: block;
+    text-align: center;
+    min-width: 290px;
+  }
+  .weekly-view ul li{
+    background: #FFF;
+    text-align: center;
+    padding: 0 3px;
+    width: 13.4%;
+  }
+  .weekly-view ul li + li{
+    border-left: 1px solid #eee;
+  }
+  .weekly-view ul li span{
+    display: block;
+  }
+
+  .weekly-view a{
+    color: black;
+    font-size: 1.3em;
+    padding: 0 1px;
+  }
+
+  @media (max-width: 400px){
+    .weekly-view ul{  
+      background: #fff;
     }
-    .weekly-view ul{
-      font-size: 10px;
-      display: block;
-      text-align: center;
-      background: #FFF;
-      min-width: 290px;
-    }
-    .weekly-view ul li{
-      background: #FFF;
-      text-align: center;
-      padding: 0 3px;
-      width: 13.4%;
-    }
-    .weekly-view ul li + li{
-      border-left: 1px solid #eee;
-    }
-    .weekly-view ul li span{
-      display: block;
-    }
+  }
 
 
 
@@ -606,3 +617,17 @@ p{
       padding: 1em 0;
     }
   }
+
+.date{
+  font-weight: 900;
+}
+
+.date span{
+  font-weight: 200;
+  border-bottom: 1px solid #eee;
+}
+
+.time{
+  font-weight: 900;
+}
+
