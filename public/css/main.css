@@ -385,16 +385,6 @@ p{
   }
 
   @media (max-width: 1199px){
-    /*.weekly-view li a{
-      font-size: .8em;
-
-      padding: 15px 55px;
-    }
-
-    .weekly-view h1{
-      margin: 5px;
-    }
-    */
     .view-history {
       text-align: center;
     }
