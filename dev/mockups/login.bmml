@@ -1,0 +1,82 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1003" measuredH="489" mockupW="990" mockupH="482">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="13" y="7" w="990" h="482" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.teamclock.co</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="14" y="81" w="989" h="47" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="23" y="87" w="-1" h="-1" measuredW="161" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>TeamClock</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="136" y="150" w="494" h="283" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="136" y="149" w="494" h="71" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TextInput" x="161" y="263" w="446" h="-1" measuredW="179" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20Enter%20Email%20Address</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="161" y="238" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="161" y="330" w="446" h="-1" measuredW="151" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20Enter%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="161" y="305" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="460" y="372" w="147" h="32" measuredW="54" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="161" y="168" w="-1" h="-1" measuredW="265" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Sign%20in%20to%20your%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="682" y="168" w="-1" h="-1" measuredW="178" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Not%20a%20Member%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Button" x="682" y="215" w="198" h="32" measuredW="164" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register%20a%20new%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::CheckBox" x="161" y="377" w="-1" h="-1" measuredW="111" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stay%20Logged%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::List" x="677" y="321" w="280" h="44" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>*%20Manage%20Your%20Project%20Budget%0A*%20Log%20Hours%20to%20a%20project</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="682" y="278" w="275" h="43" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>TEAMclock%20makes%20it%20super%20easy%20to%20manage%20a%20team%20that%20submit%20hours%20against%20a%20project</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
