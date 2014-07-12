@@ -18,7 +18,7 @@
         <text>TeamClock</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="__group__" x="752" y="122" w="251" h="94" measuredW="251" measuredH="94" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="__group__" x="752" y="125" w="251" h="94" measuredW="251" measuredH="94" zOrder="2" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="251" h="94" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="41">
           <controlProperties>
