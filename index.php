@@ -1,4 +1,4 @@
-
+<?php include ('shared/header.php') ?>
       <div class="container">
 
         <div>
@@ -7,3 +7,4 @@
         </div>
 
       </div><!-- /.container -->
+<?php include ('shared/footer.php') ?>
