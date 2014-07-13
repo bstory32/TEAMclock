@@ -56,7 +56,7 @@
                       <span>email@email.com</span>
                     </div>
                   </li>
-                  <li><a href="#">Settings</a></li>
+                  <li><a href="manage-account.php">Settings</a></li>
                   
                 </ul>
               </li>
