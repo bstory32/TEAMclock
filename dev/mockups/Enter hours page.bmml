@@ -64,74 +64,74 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Title" x="111" y="147" w="-1" h="-1" measuredW="230" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Title" x="77" y="147" w="-1" h="-1" measuredW="230" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MuddRunner</text>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="130" y="226" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="96" y="226" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Enter%20Hours</text>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="152" y="251" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="118" y="251" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>0.00%20hrs</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="233" y="221" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="199" y="221" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Enter%20description</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="349" y="155" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="315" y="155" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Add%20Hours</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="103" y="215" w="878" h="80" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="69" y="215" w="878" h="80" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="103" y="214" w="115" h="81" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="69" y="214" w="115" h="81" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Canvas" x="103" y="322" w="878" h="80" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Canvas" x="69" y="322" w="878" h="80" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="103" y="321" w="115" h="81" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="69" y="321" w="115" h="81" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="130" y="333" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="96" y="333" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Enter%20Hours</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="152" y="358" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="118" y="358" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>4.00%20hrs</text>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="233" y="333" w="733" h="54" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="199" y="333" w="733" h="54" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%09</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Button" x="838" y="418" w="143" h="36" measuredW="132" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Button" x="804" y="418" w="143" h="36" measuredW="132" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6989903</color>
         <size>18</size>
         <text>Submit%20Hours</text>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::DateChooser" x="461" y="156" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::DateChooser" x="427" y="156" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%207/30/%2014%20%20%20</text>
       </controlProperties>
