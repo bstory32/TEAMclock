@@ -41,7 +41,7 @@
                   <li><a href="#">Project Overview</a></li>
                   <li><a href="#">Manage Projects</a></li>
                   <li class="divider"></li>
-                  <li><a href="#">Create a New Project</a></li>
+                  <li><a href="create-project.php">Create a New Project</a></li>
                 </ul>
               </li>
               <li class="dropdown">
@@ -55,11 +55,16 @@
                       <span>email@email.com</span>
                     </div>
                   </li>
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li class="divider"></li>
-                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">Settings</a></li>
+                  
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dev <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="login.php">Login</a></li>
+                  <li><a href="registration.php">Registration</a></li>
+                  
                 </ul>
               </li>
             </ul>
