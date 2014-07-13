@@ -126,7 +126,7 @@
         <text>Search%20by%20email</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="505" y="266" w="162" h="-1" measuredW="114" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="505" y="266" w="119" h="-1" measuredW="114" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Add%20user%20to%20project</text>
       </controlProperties>
