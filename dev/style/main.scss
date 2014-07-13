@@ -31,8 +31,12 @@
 @import "enter-hours/enter-hours-list";
 
 
-// manage account page
+// manage account
 @import "manage-account/update-account-panel";
 @import "manage-account/account-tips-section";
 
+
+//manage account member
+@import "manage-project-member/manage-project-member-header";
+@import "manage-project-member/manage-project-member-hours";
 
