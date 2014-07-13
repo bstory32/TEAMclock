@@ -5,8 +5,8 @@
 			<h1>Create Project</h1>
 			<form role="form">
 				<div class="form-group">
-					<label for="exampleInputEmail1">Email address</label>
-					<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+					<label for="exampleInputEmail1">Name</label>
+					<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name">
 				</div>
 				<div class="row">
 					<div class="col-sm-6">
@@ -25,9 +25,9 @@
 		<div class="col-sm-6 tips-panel">
 			<h1>Tips</h1>
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Tip 1</li>
+				<li>Tip 2</li>
+				<li>Tip 3</li>
 			</ul>
 		</div>
 	</div>
