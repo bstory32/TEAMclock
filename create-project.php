@@ -1,9 +1,35 @@
 <?php include ('shared/header.php') ?>
 <div class="container">
-
-	<div>
-		<h1>Bootstrap starter template</h1>
-		<p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+	<div class="row">
+		<div class="col-sm-6 create-project-form">
+			<h1>Create Project</h1>
+			<form role="form">
+				<div class="form-group">
+					<label for="exampleInputEmail1">Email address</label>
+					<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						<label for="exampleInputEmail1">Budget (Optional)</label>
+					</div>
+					<div class="col-sm-6">
+						<div class="input-group">
+							<div class="input-group-addon">$</div>
+							<input class="form-control" type="email" placeholder="0.00">
+						</div>
+					</div>
+				</div>
+				<button type="submit" class="btn btn-default">Create new project</button>
+			</form>
+		</div>
+		<div class="col-sm-6 tips-panel">
+			<h1>Tips</h1>
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
 	</div>
 
 </div><!-- /.container -->
