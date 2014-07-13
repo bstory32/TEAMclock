@@ -1,10 +1,14 @@
 <?php include ('shared/header.php') ?>
-      <div class="container">
 
-        <div>
-          <h1>Bootstrap starter template</h1>
-          <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-        </div>
+<div class="about-teamclock">
+	<div class="container">
+		<div class="row">
+			<h1>Team Clock helps you manage your project hours</h1>
+			<p>
 
-      </div><!-- /.container -->
+			</p>
+		</div>
+	</div>
+</div>
+
 <?php include ('shared/footer.php') ?>
