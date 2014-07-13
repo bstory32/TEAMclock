@@ -21,7 +21,13 @@
 			</form>
 		</div>
 		<div class="col-sm-6">
-			
+			<h1>Not a Member?</h1>
+			<button type="button" class="btn btn-primary">Register a new Account</button>
+			<p>TEAMclock makes it super easy to manage a team that submit hours against a project</p>
+			<ul>
+				<li>Manage Your Project Budget</li>
+				<li>Log Hours to a Project</li>
+			</ul>
 		</div>
 	</div>
 
