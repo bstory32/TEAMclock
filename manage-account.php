@@ -1,7 +1,7 @@
 <?php include ('shared/header.php') ?>
 <div class="container">
 	<div class="row">
-		<div class="col-sm-6 update-control-panel">
+		<div class="col-sm-6 update-account-panel">
 			<h1>Manage Account</h1>
 			<div class="profile-picture">
 				<img src="http://placehold.it/50x50">
