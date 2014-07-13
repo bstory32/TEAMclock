@@ -20,7 +20,7 @@
 				<button type="submit" class="btn btn-default">Login</button>
 			</form>
 		</div>
-		<div class="col-sm-6">
+		<div class="col-sm-4 col-sm-offset-2">
 			<h1>Not a Member?</h1>
 			<button type="button" class="btn btn-primary">Register a new Account</button>
 			<p>TEAMclock makes it super easy to manage a team that submit hours against a project</p>
