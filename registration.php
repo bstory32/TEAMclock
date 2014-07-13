@@ -16,7 +16,7 @@
 				<button type="submit" class="btn btn-default">Register</button>
 			</form>
 		</div>
-		<div class="col-sm-4 col-sm-offset-2">
+		<div class="col-sm-4 col-sm-offset-2 existing-member-panel">
 			<h1>Already a Member?</h1>
 			<button type="button" class="btn btn-primary">Sign In</button>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque magnam eos temporibus accusantium amet, nesciunt saepe neque facilis, molestiae odio! Officiis odio adipisci, aliquam! Eaque, debitis. Labore doloremque, fuga ducimus.</p>
