@@ -1,10 +1,41 @@
 <?php include ('shared/header.php') ?>
-      <div class="container">
+<div class="container">
+	<div class="row project-overview-header">
+		<div class="col-sm-4">
+			<h1>Project Overview</h1>
+		</div>
+		<div class="col-sm-4">
+			<input type="text" placeholder="Enter Project Name">
+		</div>
+		<div class="col-sm-4">
+			<span>Total Earned: $1500/60hrs</span>
+		</div>
+	</div>
+	<div class="row project-overview">
+		<div class="col-sm-12">
+			<h2>TEAMclock</h2>
+			<div class="hours-earned">
+				<p>$150 Earned/8 hrs</p>
+			</div>
+			<div class="edit-details-section">
+				<a href="#">Hours |</a>
+				<a href="#">Project Details</a>
+				<a href="#">Manage Project</a>
+			</div>
+		</div>
+		<div class="col-sm-12">
+			<h2>TEAMclock</h2>
+			<div class="hours-earned">
+				<p>$150 Earned/8 hrs</p>
+			</div>
+			<div class="edit-details-section">
+				<a href="#">Hours |</a>
+				<a href="#">Project Details</a>
+				<a href="#">Manage Project</a>
+			</div>
+		</div>
+	</div>
 
-        <div>
-          <h1>Bootstrap starter template</h1>
-          <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-        </div>
 
-      </div><!-- /.container -->
+</div><!-- /.container -->
 <?php include ('shared/footer.php') ?>
