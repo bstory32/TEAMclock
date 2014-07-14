@@ -19,7 +19,7 @@
 			</div>
 			<div class="col-sm-6">
 				<h2>Start managing your projects now</h2>
-				<a href="signup.php" class="btn btn-success">Sign up free</a>
+				<a href="registration.php" class="btn btn-success">Sign up free</a>
 			</div>
 		</div>
 	</div>
