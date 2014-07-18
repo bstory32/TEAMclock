@@ -1,3 +1,95 @@
+body{
+
+	// background: url(http://www.thehweddingphotography.com/wp-content/uploads/galleries/post-2963/Chicago-skyline-as-background.jpg);
+	// background-size: cover; 
+}
+
+
+.login-panel-header{
+	text-align: center;
+	margin: 90px 0;
+	h1{
+		color: #B3DDF2;
+		font-size: 4em;
+		margin-top: 0;
+	}
+	span{
+		color: #FF0000;
+		font-weight: 200;
+	}
+
+}
+
 .login-panel{
+	h1{
+		background: $darkgrey;
+		color: #fff;
+		margin: 0;
+		font-size: 1.5em;
+		padding: 10px;
+	}
+	border: 1px solid #aaa;
+	padding: 0;
+	hr {
+		margin-top: 0;
+		margin-bottom: 5px;
+		border: 0;
+		border-top: 1px solid #B3DDF2;
+	}
+	a{
+		float:right;
+		color: black;
+	}
+
+	&:hover{
+		
+	}
+
+	.form-container{
+		padding: 0 10px;
+	}
+	.form-group{
+		margin-bottom: 5px;
+	}
+
+	.btn-lg{
+		padding: 5px 113px;
+		background-color: #B3DDF2;
+		border-color: #eee;
+
+	}
+	
+	.btn-lg:hover{
+		background-color: #FF0000;
+		border-color: #eee;
+	}
+
+	.checkbox-label{
+		font-size: .9em;
+	}
+
+}
+
+.not-registered-panel h1{
+	margin-top: 40px;
+}
+
+.not-registered-panel button{
+	margin: 10px 35px;
+	padding: 10px 20px;
+	background-color: #B3DDF2;
+	border-color: #eee;
+
+	&:hover{
+		background-color: #FF0000;
+		border-color: #eee;
+	}
 	
 }
+
+
+
+
+
+
+
