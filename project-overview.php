@@ -12,8 +12,8 @@
 		</div>
 	</div>
 	<div class="row project-overview">
-		<div class="col-sm-12">
-			<h2>TEAMclock</h2>
+		<h2>TEAMclock</h2>
+		<div class="col-sm-12 project-details">
 			<div class="hours-earned">
 				<p>$150 Earned/8 hrs</p>
 			</div>
@@ -23,8 +23,8 @@
 				<a href="#">Manage Project</a>
 			</div>
 		</div>
-		<div class="col-sm-12">
-			<h2>TEAMclock</h2>
+		<h2>TEAMclock</h2>
+		<div class="col-sm-12 project-details">
 			<div class="hours-earned">
 				<p>$150 Earned/8 hrs</p>
 			</div>
