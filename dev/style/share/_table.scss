@@ -1,0 +1,14 @@
+.table{
+	background: #eee;
+	thead{
+		tr{
+			th{
+				vertical-align: top;
+				.job-title{
+					font-size: .9em;
+				}
+			}
+
+		}
+	}
+}
