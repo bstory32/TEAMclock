@@ -3,7 +3,7 @@
 	<div class="row">
 		<div class="col-sm-12 manage-hours-header">
 			<h1>MuddRunner</h1>
-			<button type="button" class="btn btn-success">Add Hours</button>
+			<button type="button" class="btn btn-success" data-toggle="modal" data-target="#addHoursModal">Add Hours</button>
 
 		</div>
 	</div>
@@ -40,4 +40,33 @@
 		</ul>
 	</div>
 </div><!-- /.container -->
+
+<!-- Modal -->
+<div class="modal fade" id="addHoursModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title" id="myModalLabel">Add Hours to ProjectName</h4>
+			</div>
+			<div class="modal-body">
+				<form role="form">
+					<div class="form-group">
+						<label for="day">Day</label>
+						<input type="email" class="form-control" id="day" placeholder="10/5/14">
+					</div>
+					<div class="form-group">
+						<label for="day">hours</label>
+						<input type="email" class="form-control" id="hours" placeholder="0.00 hrs">
+					</div>
+				</form>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+				<button type="button" class="btn btn-success">Submit Hours</button>
+			</div>
+		</div>
+	</div>
+</div>
+
 <?php include ('shared/footer.php') ?>
