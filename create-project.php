@@ -9,10 +9,10 @@
 					<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name">
 				</div>
 				<div class="row">
-					<div class="col-sm-6">
+					<div class="col-sm-12">
 						<label for="exampleInputEmail1">Budget (Optional)</label>
 					</div>
-					<div class="col-sm-6">
+					<div class="col-sm-12">
 						<div class="input-group">
 							<div class="input-group-addon">$</div>
 							<input class="form-control" type="email" placeholder="0.00">
@@ -24,6 +24,7 @@
 		</div>
 		<div class="col-sm-6 tips-panel">
 			<h1>Tips</h1>
+			<hr>
 			<ul>
 				<li>Tip 1</li>
 				<li>Tip 2</li>

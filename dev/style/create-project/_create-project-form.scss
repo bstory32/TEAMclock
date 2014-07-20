@@ -1,3 +1,17 @@
 .create-project-form{
-	
+	margin-top: 25px;
+	h1{
+		font-size: 45px;
+		color: $primaryBlue;
+	}
+	.input-group{
+		margin-bottom: 15px;	}
+	.input-group-addon{
+		padding: 0 14px;
+
+	}
+
+	label{
+		color: $white;
+	}
 }
