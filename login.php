@@ -25,7 +25,7 @@
 							</label>
 							<a href="#">Forget password?</a>
 						</div>
-						<button type="button" class="btn btn-primary btn-lg">Login</button>
+						<a href="project-overview.php" class="btn btn-primary btn-lg">Login</a>
 					</form>
 				</div>
 			</div>
@@ -33,7 +33,7 @@
 		<div class="col-sm-6 ">
 			<div class="not-registered-panel">
 				<h1>Not a member yet?</h1>
-				<button type="button" class="btn btn-primary">Sign up now</button>
+				<a href="registration.php" class="btn btn-primary">Sign up now</a>
 			</div>
 		</div>
 	</div>

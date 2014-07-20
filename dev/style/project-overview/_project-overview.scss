@@ -1,17 +1,23 @@
 .project-overview{
+
 	h2{
 		margin: 0;
 		color: $white;
-		padding-left: 5px;
+	}
+	span{
+		color: white;
+		font-size: 1.2em;
+		letter-spacing: 1px;
 	}
 }
 
 .project-details{
 	border: 1px solid $backgroundBlue;
-	border-radius: 25px;
+	border-radius: 4px;
 	margin: 0 0 30px 0;
-	padding: 20px 20px;
-	background: #4090b1;
+	padding: 0;
+	background: $lightblue;
+	display: inline-block;
 	h2{
 		margin-top: 0;
 		margin-bottom: 10px;
@@ -19,5 +25,23 @@
 	}
 	a{
 		color: $white;
+	}
+
+	a:last-child{
+		float: right;
+	}
+
+
+	.hours-earned{
+		display: inline-block;
+		width: 25%;
+		background: $midblue;
+		padding: 20px 10px;
+
+	}
+	.edit-details-section{
+		display: inline-block;
+		width: 74%;
+		padding: 0 10px;
 	}
 }

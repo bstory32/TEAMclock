@@ -3,17 +3,12 @@
 
 	h1{
 		font-size: 45px;
-		color: $primaryBlue;
 	}
-
-	h2{
-		color: white;
-	}
-
+	
 	ul{
 		list-style: none;
 		font-size: 25px;
-		color: white;
+		color: $white;
 		padding: 25px 0px;
 		float: left;
 	}

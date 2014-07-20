@@ -13,7 +13,7 @@
 							<input type="checkbox"> Stay logged in
 						</label>
 					</div>
-					<button type="submit" class="btn btn-default">Register</button>
+					<a href="project-overview.php" class="btn btn-default">Register</a>
 				</form>
 			</div>
 
@@ -24,7 +24,7 @@
 
 			<div class="existing-member-panel">
 				<h1>Already a Member?</h1>
-				<button type="button" class="btn btn-primary">Sign In</button>
+				<a href="login.php" class="btn btn-primary">Sign In</a>
 			</div>
 
 		</div>

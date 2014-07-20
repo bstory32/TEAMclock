@@ -11,11 +11,25 @@
 			<span>Total Earned: $1500/60hrs</span>
 		</div>
 	</div>
+	<div class="row">
+		<hr>
+	</div>
 	<div class="row project-overview">
 		<h2>TEAMclock</h2>
 		<div class="col-sm-12 project-details">
 			<div class="hours-earned">
-				<p>$150 Earned/8 hrs</p>
+				<span>$150 Earned / 8 hrs</span>
+			</div>
+			<div class="edit-details-section">
+				<a href="manage-hours-page.php">Hours |</a>
+				<a href="#">Project Details</a>
+				<a href="manage-project.php">Manage Project</a>
+			</div>
+		</div>
+		<h2>TEAMclock</h2>
+		<div class="col-sm-12 project-details">
+			<div class="hours-earned">
+				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
 				<a href="#">Hours |</a>
@@ -26,7 +40,7 @@
 		<h2>TEAMclock</h2>
 		<div class="col-sm-12 project-details">
 			<div class="hours-earned">
-				<p>$150 Earned/8 hrs</p>
+				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
 				<a href="#">Hours |</a>
@@ -37,18 +51,7 @@
 		<h2>TEAMclock</h2>
 		<div class="col-sm-12 project-details">
 			<div class="hours-earned">
-				<p>$150 Earned/8 hrs</p>
-			</div>
-			<div class="edit-details-section">
-				<a href="#">Hours |</a>
-				<a href="#">Project Details</a>
-				<a href="#">Manage Project</a>
-			</div>
-		</div>
-		<h2>TEAMclock</h2>
-		<div class="col-sm-12 project-details">
-			<div class="hours-earned">
-				<p>$150 Earned/8 hrs</p>
+				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
 				<a href="#">Hours |</a>
