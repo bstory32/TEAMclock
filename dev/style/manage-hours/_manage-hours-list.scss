@@ -1,0 +1,51 @@
+.manage-hours-list{
+	color: $white;
+	border: 1px solid $backgroundBlue;
+	
+	margin: 0 0 30px 0;
+	padding: 0;
+	display: inline-block;
+	
+
+	h3{
+		margin: 0;
+	}
+
+	ul{
+		list-style: none;
+		padding: 0;
+		margin: 0;
+
+		li{
+			background: $lightblue;
+			border-radius: 4px;
+		}
+	}
+
+
+	li+li{
+		margin-top: 1em;
+	}
+
+	p{
+		padding: 1em;
+
+	}
+	button{
+		float: right;
+	}
+
+	.date{
+		background: #337a98;
+		border-radius: 4px 0 0 4px;
+		text-align: right;
+		padding: 1em 3em;
+		a{
+			color: $white;
+		}
+		.hours{
+			display: block;
+		}
+	}
+
+}
