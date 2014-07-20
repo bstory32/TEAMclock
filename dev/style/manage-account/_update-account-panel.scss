@@ -1,3 +1,28 @@
 .update-account-panel{
-	
+	margin-top: 25px;
+	h1{
+		color: $primaryBlue;
+		margin-bottom: 20px;
+	}
+	.profile-picture{
+		margin-bottom: 20px;
+	}
+	img{
+		border-radius: 50px;
+	}
+	a{
+		color: $white;
+		display: inline-block;
+	}
+
+	label{
+		color: $white;
+
+	} 
+	.btn-success {
+		color: #fff;
+		background-color: #5cb85c;
+		border-color: #4cae4c;
+		float: right;
+	}
 }
