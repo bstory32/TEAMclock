@@ -7,11 +7,11 @@
 				<li>Initial Budget: $5000</li>
 				<li>Budget Spent: $2000</li>
 				<hr>
-				<li>Budget Remaining: $3000</li>
+				<li>Budget Remaining: <span>$3000</span></li>
 			</ul>
 		</div>
 		<div class="col-sm-6">
-			<h2>Project Name: Name of project</h2>
+			<h2>Project Name: MuddRunner</h2>
 			<h2>Team Member Information</h2>
 			<label for="">Add User to project: <input type="text" placeholder="Enter email"></label>
 			<table class="table table-striped">
@@ -24,19 +24,19 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<tr class="row-odd">
 						<td>1</td>
 						<td>Mark</td>
 						<td>Otto</td>
 						<td>@mdo</td>
 					</tr>
-					<tr>
+					<tr class="row-even">
 						<td>2</td>
 						<td>Jacob</td>
 						<td>Thornton</td>
 						<td>@fat</td>
 					</tr>
-					<tr>
+					<tr class="row-odd">
 						<td>3</td>
 						<td>Larry</td>
 						<td>the Bird</td>

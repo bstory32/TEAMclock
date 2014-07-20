@@ -1,2 +1,46 @@
 .manage-project-panel{
+	margin: 25px 0;
+
+	h1{
+		font-size: 45px;
+		color: $primaryBlue;
+	}
+
+	h2{
+		color: white;
+	}
+
+	ul{
+		list-style: none;
+		font-size: 25px;
+		color: white;
+		padding: 25px 0px;
+		float: left;
+	}
+	li{
+		padding: 5px 0;
+	}
+
+	hr{
+		margin: 20px 0;	
+	}
+	span{
+		color: green;
+	}
+	label {
+		display: inline-block;
+		max-width: 100%;
+		margin-bottom: 10px;
+		font-weight: 300;
+		color: white;
+	}
+	input{
+		border-radius: 25px;
+		padding: 0 10px;
+	}
+
+	thead{
+		color: $primaryBlue;
+		background: $orange;
+	}
 }
