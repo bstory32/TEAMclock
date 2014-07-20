@@ -2,6 +2,7 @@
 // shared
 @import "share/variables";
 @import "share/body";
+@import "share/modal";
 
 
 // header
@@ -26,9 +27,10 @@
 // manage-project
 @import "manage-project/manage-project-panel";
 
-//enter hours
+//manage hours
 @import "manage-hours/manage-hours-header";
 @import "manage-hours/manage-hours-list";
+@import "manage-hours/pagination";
 
 
 // manage account

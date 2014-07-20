@@ -1,0 +1,16 @@
+.pagination{
+	display: block;
+	text-align: center;
+	ul{
+		li{
+			&:first-child{
+				background: $lightblue;
+				border-radius: 2px;
+				a{
+					color: $white;
+					padding: 5px 10px;
+				}
+			}
+		}
+	}
+}
