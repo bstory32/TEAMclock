@@ -21,8 +21,8 @@
 				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
-				<a href="manage-hours-page.php">Hours |</a>
-				<a href="#">Project Details</a>
+				<a href="manage-hours-page.php">Hours</a>
+				<!-- <a href="#">Project Details</a> -->
 				<a href="manage-project.php">Manage Project</a>
 			</div>
 		</div>
@@ -32,8 +32,8 @@
 				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
-				<a href="#">Hours |</a>
-				<a href="#">Project Details</a>
+				<a href="#">Hours</a>
+				<!-- <a href="#">Project Details</a> -->
 				<a href="#">Manage Project</a>
 			</div>
 		</div>
@@ -43,8 +43,8 @@
 				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
-				<a href="#">Hours |</a>
-				<a href="#">Project Details</a>
+				<a href="#">Hours</a>
+				<!-- <a href="#">Project Details</a> -->
 				<a href="#">Manage Project</a>
 			</div>
 		</div>
@@ -54,8 +54,8 @@
 				<span>$150 Earned / 8 hrs</span>
 			</div>
 			<div class="edit-details-section">
-				<a href="#">Hours |</a>
-				<a href="#">Project Details</a>
+				<a href="#">Hours</a>
+				<!-- <a href="#">Project Details</a> -->
 				<a href="#">Manage Project</a>
 			</div>
 		</div>
