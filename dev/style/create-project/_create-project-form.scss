@@ -1,5 +1,7 @@
 .create-project-form{
 	margin-top: 25px;
+	margin: 0 auto;
+	max-width: 50%;
 	h1{
 		font-size: 45px;
 	}
@@ -12,5 +14,13 @@
 
 	label{
 		color: $white;
+	}
+
+	.budget{
+		width: 25%;
+	}
+
+	.project-name{
+		width: 75%;
 	}
 }

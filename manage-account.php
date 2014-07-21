@@ -23,7 +23,7 @@
 			</form>
 		</div>
 		<div class="col-sm-6 account-tips-section">
-			<h1>Tips for the host</h1>
+			<h1>Tips from the host</h1>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis quidem architecto, similique quam nostrum accusamus asperiores, dolorem, facere quasi maxime dolore fugit sunt natus assumenda harum laboriosam odit! Illum, mollitia?</p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit praesentium facilis nesciunt est soluta esse at et corrupti, atque in inventore nisi rerum necessitatibus molestias dolor eum, reiciendis culpa magnam?</p>
 		</div>

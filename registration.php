@@ -4,17 +4,29 @@
 		<div class="col-sm-6">
 			<div class="registration-panel">
 				<h1>Register new Account</h1>
-				<form role="form">
-					<div class="form-group">
-						<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+				<div class="row">
+					<div class="col-sm-6">
+						<ul class="signin-buttons">
+							<li><a href="#" class="facebook">Sign In With Facebook</a></li>
+							<li><a href="#" class="google">Sign In With Google +</a></li>
+							<li><a href="#" class="twitter">Sign In With twitter</a></li>
+						</ul>
 					</div>
-					<div class="checkbox">
-						<label>
-							<input type="checkbox"> Stay logged in
-						</label>
+					<div class="col-sm-6">
+						<form role="form">
+							<div class="form-group">
+								<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+							</div>
+							<div class="checkbox">
+								<label>
+									<input type="checkbox"> Stay logged in
+								</label>
+							</div>
+							<a href="project-overview.php" class="btn btn-default">Register</a>
+						</form>
 					</div>
-					<a href="project-overview.php" class="btn btn-default">Register</a>
-				</form>
+				</div>
+				
 			</div>
 
 			
