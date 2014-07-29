@@ -7,9 +7,9 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<ul class="signin-buttons">
-							<li><a href="#" class="facebook">Sign In With Facebook</a></li>
-							<li><a href="#" class="google">Sign In With Google +</a></li>
-							<li><a href="#" class="twitter">Sign In With twitter</a></li>
+							<li><a href="#" class="facebook">Sign In With <i class="fa fa-facebook-square"></i></a></li>
+							<li><a href="#" class="google">Sign In With <i class="fa fa-google-plus-square"></i></a></li>
+							<li><a href="#" class="twitter">Sign In With <i class="fa fa-twitter-square"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-sm-6">

@@ -2,6 +2,7 @@
 	list-style: none;
 	padding: 0;
 	margin-right: 15px;
+	border-radius: 4px;
 	li{
 		
 		a{
@@ -9,17 +10,23 @@
 			padding: 6px 10px;
 			margin-bottom: 10px;
 			display: block;
+			border-radius: 4px;
+			color: $white;
 		}
 	}
 
+	i{
+		float: right;
+	}
+
 	.facebook{
-		background: blue;
+		background: #3B5998;
 	}
 	.google{
-		background: red;
+		background:  #d34836;
 	}
 	.twitter{
-		background: blue;
+		background: #4099FF;
 	}
 	
 }
